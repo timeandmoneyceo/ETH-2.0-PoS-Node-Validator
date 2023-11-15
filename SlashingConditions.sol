@@ -38,5 +38,4 @@ contract SlashingConditions {
         emit SlashPenaltyChanged(_newPenalty);
     }
 
-    // ... rest of your slashing conditions logic ...
 }
